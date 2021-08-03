@@ -1,0 +1,28 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hikod/teamprofilegenerator.git"
+  },
+  "author": "hikod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hikod/teamprofilegenerator/issues"
+  },
+  "homepage": "https://github.com/hikod/teamprofilegenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
