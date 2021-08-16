@@ -30,6 +30,7 @@
   ## Screenshots & Additional Info
 
   ![image](./utils/assets/img/cli.jpg)
+  ![image](./utils/assets/img/tests.jpg)
   
   The demo can be found: 
   The URL to the repo: https://github.com/hikod/teamprofilegenerator
