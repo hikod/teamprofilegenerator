@@ -32,7 +32,7 @@
   ![image](./utils/assets/img/cli.jpg)
   ![image](./utils/assets/img/tests.jpg)
   
-  The demo can be found: 
+  The demo can be found: https://drive.google.com/file/d/1vCml-FlCeyHWOFn5t-5jJaW9Qv3RychY/view?usp=sharing
   The URL to the repo: https://github.com/hikod/teamprofilegenerator
 
   ## Questions 
