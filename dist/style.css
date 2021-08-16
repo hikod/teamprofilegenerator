@@ -1,0 +1,14 @@
+h1{
+    color: white;
+}
+.container-fluid{
+    background-color: red;
+    margin-bottom: 10vh;
+}
+.card{
+    box-shadow: 2px 2px;
+}
+.card-header{
+    background-color: blue;
+    color: white;
+}
